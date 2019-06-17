@@ -3,3 +3,6 @@ this is first file in src;
 this is for test conflect; in src;
 
 3.test conflect; in copy;
+
+3\ this is for test conflectin src;
+
